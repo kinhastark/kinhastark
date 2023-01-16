@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kinhastark
-- 👀 I’m interested in  automatizar processos de infraestrutura atraves de scripts 
+- 👀 I’m interested in  Devops
 - 🌱 I’m currently learning  PowerShell e VB
-- 💞️ I’m looking to collaborate on ambiente de  infraestrutura 
+- 💞️ I’m looking to collaborate infrastructure as code
 - 📫 How to reach me  https://www.linkedin.com/in/rebeccagarcialima/
 
 <!---
